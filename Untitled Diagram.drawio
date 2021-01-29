@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T09:22:16.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="gDWBafM81_g5B4WNxtwa" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T09:22:47.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="6PogYBkFAva7w59A4_-0" version="14.2.7" type="github">
   <diagram id="AzWxA5kRe5Be4Jo9EekZ" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,6 +101,9 @@
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-36" value="Message&lt;br&gt;Broker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="150" width="80" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6UTyOGbrDXYmkLeVAqft-49" target="6UTyOGbrDXYmkLeVAqft-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-49" value="order-listener" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="120" height="40" as="geometry" />
