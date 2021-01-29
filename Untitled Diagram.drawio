@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T11:34:14.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="8tqW1grJpTDXnSQ6OrxV" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T11:35:09.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="EJjqAq_sRlk0DfSHvu5n" version="14.2.7" type="github">
   <diagram id="AzWxA5kRe5Be4Jo9EekZ" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -193,19 +193,21 @@
             <mxPoint x="-8.07" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG5kRSH8gIUAHxxKcoNH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6UTyOGbrDXYmkLeVAqft-82" target="6UTyOGbrDXYmkLeVAqft-87">
+        <mxCell id="hG5kRSH8gIUAHxxKcoNH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.21;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6UTyOGbrDXYmkLeVAqft-82" target="6UTyOGbrDXYmkLeVAqft-87">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="690" as="targetPoint" />
+            <mxPoint x="190" y="765" as="targetPoint" />
+            <mxPoint x="50" y="225" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="20" y="220" />
-              <mxPoint x="20" y="730" />
-              <mxPoint x="395" y="730" />
+              <mxPoint x="40" y="225" />
+              <mxPoint x="30" y="225" />
+              <mxPoint x="30" y="730" />
+              <mxPoint x="189" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hG5kRSH8gIUAHxxKcoNH-19" value="shipping fees, taxes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hG5kRSH8gIUAHxxKcoNH-18">
           <mxGeometry x="0.3944" relative="1" as="geometry">
-            <mxPoint x="68" y="10" as="offset" />
+            <mxPoint x="70" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-82" value="quote" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
@@ -278,7 +280,7 @@
         </mxCell>
         <mxCell id="hG5kRSH8gIUAHxxKcoNH-55" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;orderCreated,&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;paymentReceived,&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;orderInvoiced,&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;orderShipped,&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;orderClosed&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hG5kRSH8gIUAHxxKcoNH-54">
           <mxGeometry x="0.108" relative="1" as="geometry">
-            <mxPoint x="-7" y="40.5" as="offset" />
+            <mxPoint x="-9" y="36" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
