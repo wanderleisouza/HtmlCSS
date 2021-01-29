@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T11:19:02.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ugewX_Sl0qe32Rwepwh5" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T11:21:27.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="99jtojXrTukL2sJYRG3A" version="14.2.7" type="github">
   <diagram id="AzWxA5kRe5Be4Jo9EekZ" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
         <mxCell id="6UTyOGbrDXYmkLeVAqft-56" value="notification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="280" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6UTyOGbrDXYmkLeVAqft-60" value="&lt;br&gt;Aurora mariaDB" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-60" value="&lt;br&gt;aurora mySQL" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="342.93" y="650" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-61" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
@@ -244,7 +244,7 @@
         <mxCell id="6UTyOGbrDXYmkLeVAqft-88" value="Price Soft" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="810" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6UTyOGbrDXYmkLeVAqft-89" value="oracle" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-89" value="&lt;br&gt;Oracle" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="174.99" y="815" width="70.01" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-90" value="WMS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
