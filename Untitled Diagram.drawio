@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T10:15:08.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="WUsF3LsLUvO8Tx8jFuPn" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T10:16:59.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="lFSpJgk2sXl317Yj0mxg" version="14.2.7" type="github">
   <diagram id="AzWxA5kRe5Be4Jo9EekZ" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -152,22 +152,23 @@
         <mxCell id="6UTyOGbrDXYmkLeVAqft-65" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.magento.com/user-guide/images/images/order-workflow.png;" parent="1" vertex="1">
           <mxGeometry x="207.06" y="370" width="135.87" height="201.29" as="geometry" />
         </mxCell>
-        <mxCell id="hG5kRSH8gIUAHxxKcoNH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6UTyOGbrDXYmkLeVAqft-66" target="6UTyOGbrDXYmkLeVAqft-36">
+        <mxCell id="hG5kRSH8gIUAHxxKcoNH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6UTyOGbrDXYmkLeVAqft-66">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="406" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="410" />
-              <mxPoint x="550" y="410" />
+              <mxPoint x="560" y="406" />
+              <mxPoint x="560" y="406" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-66" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="390" width="100" height="40" as="geometry" />
+          <mxGeometry x="650" y="386" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hG5kRSH8gIUAHxxKcoNH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6UTyOGbrDXYmkLeVAqft-67" target="6UTyOGbrDXYmkLeVAqft-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-67" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="740" y="415" width="20" height="20" as="geometry" />
+          <mxGeometry x="740" y="411" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-72" value="paymentReceived" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="560" y="310" as="geometry" />
