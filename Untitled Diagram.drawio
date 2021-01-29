@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T11:00:11.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="_kLSoOdlIvlt8yVx6RcG" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T11:01:15.883Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="srEu5JHZwARmnASyTPBc" version="14.2.7" type="github">
   <diagram id="AzWxA5kRe5Be4Jo9EekZ" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,9 +124,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG5kRSH8gIUAHxxKcoNH-4" value="orderCreated,&amp;nbsp;&lt;br&gt;paymentReceived" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6UTyOGbrDXYmkLeVAqft-81">
+        <mxCell id="hG5kRSH8gIUAHxxKcoNH-4" value="orderCreated,&amp;nbsp;&lt;br&gt;paymentReceived,&lt;br&gt;orderInvoiced" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6UTyOGbrDXYmkLeVAqft-81">
           <mxGeometry y="2" relative="1" as="geometry">
-            <mxPoint y="18" as="offset" />
+            <mxPoint y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hG5kRSH8gIUAHxxKcoNH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="6UTyOGbrDXYmkLeVAqft-36" target="hG5kRSH8gIUAHxxKcoNH-28">
