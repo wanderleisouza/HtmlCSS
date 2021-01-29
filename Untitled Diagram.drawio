@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T09:40:26.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="2iZvyw_G2Wamwi_OHzgZ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T09:41:10.238Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="HkQgHmVqAcLZjyM3HZJ6" version="14.2.7" type="github">
   <diagram id="AzWxA5kRe5Be4Jo9EekZ" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-72" value="paymentReceived" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="560" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-75" value="checkout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="420" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
