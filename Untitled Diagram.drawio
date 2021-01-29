@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T10:05:28.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="O_Sd_YuaTlQb_P_06hDt" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T10:06:27.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="4IhccQcH1fgGgpHu3XbV" version="14.2.7" type="github">
   <diagram id="AzWxA5kRe5Be4Jo9EekZ" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -215,16 +215,19 @@
           <mxGeometry x="40" y="720" width="710" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-88" value="Price Soft" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="770" width="240" height="110" as="geometry" />
+          <mxGeometry x="40" y="770" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-89" value="oracle" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="345.88" y="770" width="110" height="110" as="geometry" />
+          <mxGeometry x="209.99" y="770" width="80.01" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-90" value="Price Soft" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="770" width="240" height="110" as="geometry" />
+          <mxGeometry x="410" y="770" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hG5kRSH8gIUAHxxKcoNH-5" value="Magento" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5kRSH8gIUAHxxKcoNH-13" value="ERP" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="770" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
