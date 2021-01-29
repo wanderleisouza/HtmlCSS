@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T08:51:38.018Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" version="14.2.7" etag="M7Tw6rSX732d9uOWluun" type="github"><diagram id="AzWxA5kRe5Be4Jo9EekZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-29T08:53:49.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="-BegQwLhcS0TmXC4WcmQ" version="14.2.7" type="github">
+  <diagram id="AzWxA5kRe5Be4Jo9EekZ" name="Page-1">
+    <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-1" value="API - GATEWAY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-2" value="web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-3" value="app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-4" value="whatsapp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-5" value="call center" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6UTyOGbrDXYmkLeVAqft-6" value="other channels.." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
