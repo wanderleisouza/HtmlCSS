@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T11:36:20.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ITes3msHEtf_4xcGJzhL" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-29T11:40:00.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="J0h6-Mixc1wN75SfZbhG" version="14.2.7" type="github">
   <diagram id="AzWxA5kRe5Be4Jo9EekZ" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -193,14 +193,18 @@
             <mxPoint x="-8.07" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hG5kRSH8gIUAHxxKcoNH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.307;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6UTyOGbrDXYmkLeVAqft-82" target="6UTyOGbrDXYmkLeVAqft-87">
+        <mxCell id="hG5kRSH8gIUAHxxKcoNH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6UTyOGbrDXYmkLeVAqft-82" target="6UTyOGbrDXYmkLeVAqft-87">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="740" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="20" y="220" />
-              <mxPoint x="20" y="720" />
-              <mxPoint x="258" y="720" />
+              <mxPoint x="30" y="220" />
+              <mxPoint x="30" y="720" />
+              <mxPoint x="298" y="720" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hG5kRSH8gIUAHxxKcoNH-59" value="add costs (shipping fees, taxes) and apply coupons" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hG5kRSH8gIUAHxxKcoNH-58">
+          <mxGeometry x="0.6452" y="-2" relative="1" as="geometry">
+            <mxPoint x="-31" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6UTyOGbrDXYmkLeVAqft-82" value="quote" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
